@@ -1,0 +1,51 @@
+.tw-container {
+    max-width: 600px;
+    margin: auto;
+    font-family: "Segoe UI", sans-serif;
+  }
+  
+  .tw-card {
+    background-color: #f5f8fa;
+    border: 1px solid #ccd6dd;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 30px;
+    text-align: center;
+  }
+  
+  .tw-avatar {
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    border: 2px solid #1da1f2;
+  }
+  
+  .tw-username {
+    color: #657786;
+    margin-top: 5px;
+  }
+  
+  .tw-bio {
+    margin: 10px 0;
+    font-size: 15px;
+  }
+  
+  .tw-stats {
+    font-size: 14px;
+    color: #1da1f2;
+    margin-bottom: 15px;
+  }
+  
+  .tw-tweets {
+    text-align: left;
+    padding: 10px;
+  }
+  
+  .tw-tweet {
+    background: white;
+    padding: 10px;
+    margin: 5px 0;
+    border-radius: 6px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+  }
+  
